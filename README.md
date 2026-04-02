@@ -77,20 +77,6 @@ const thiporia = {
 };
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![thiporia's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiporia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c9b8e8&icon_color=6ec6b8&text_color=b8b0cc)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiporia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c9b8e8&text_color=b8b0cc)
-
-</div>
-
----
-
 ## 📬 Contact
 
 <div align="center">
@@ -98,7 +84,6 @@ const thiporia = {
 [![Email](https://img.shields.io/badge/ssoju2827@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssoju2827@gmail.com)
 [![GitHub](https://img.shields.io/badge/github.com/thiporia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiporia)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthiporia&count_bg=%236ec6b8&title_bg=%230d0d1a&icon=&icon_color=%23c9b8e8&title=visitors&edge_flat=true)](https://github.com/thiporia)
 
 </div>
 
