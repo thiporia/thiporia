@@ -1,41 +1,130 @@
-### ![header](https://capsule-render.vercel.app/api?type=waving&color=e3dbeb&animation=twinkling&height=210&section=header&text=Thiporia&fontSize=48&fontColor=8977ad&fontAlignY=30)
+<div align="center">
 
-**반가워요!!** :star2:
+![header](https://capsule-render.vercel.app/api?type=venom&color=0d0d1a&animation=twinkling&height=240&section=header&text=thiporia&fontSize=60&fontColor=c9b8e8&fontAlignY=45&desc=Front-end%20Developer%20%E2%9C%A6%20Indie%20App%20Creator&descSize=16&descAlignY=65&descColor=6ec6b8)
 
-즐겁게 개발하는 것을 **motto** 로 삼고 **Front-end** 개발자를 꿈꾸는 **thiporia** 라고 해요! 
+</div>
 
-저는!! 팀원간의 **조화**와 **유대**가 더 견고한 제품을 만든다고 생각하고 있어요!! :black_heart:
+<div align="center">
 
+### 반가워요! ✦
 
+즐겁게 개발하는 것을 **motto** 로 삼고 **Front-end** 개발자를 꿈꾸는 **thiporia** 예요 🌌  
+팀원 간의 **조화**와 **유대**가 더 견고한 제품을 만든다고 믿고 있어요 🖤  
+사람들의 일상에 작은 **즐거움**과 **힐링**을 주는 것이 저의 목표랍니다 ✨
 
-제가 현재 **활용**하고 **좋아**하는 건 다음과 같아요 :heart:
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reactjs-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactQuery-181717?style=flat-square&logo=ReactQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+---
 
+## 🛠 Tech Stack
 
+<div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthiporia&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/thiporia)
+**Frontend**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+**Framework & Library**
 
-**contact**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<p>
-    <ul>
-        <li><a href="mailto:ssoju2827@gmail.com">email</a></li>
-</ul>
-</p>
+**Mobile & Game**
 
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
+**Tools**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443e38?style=for-the-badge&logo=react&logoColor=white)
+
+</div>
+
+---
+
+## 🌌 Projects
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🌠 미리내 이야기</h3>
+      <p>별을 모아 나만의 은하를 완성해가는 힐링 아이들 게임</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>🗡️ Defense RPG (개발 중)</h3>
+      <p>귀여운 캐릭터들이 등장하는 2D 모바일 디펜스 RPG</p>
+      <p>
+        <img src="https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>📔 감정 다이어리</h3>
+      <p>나의 감정을 우주로 표현하는 감성 일기 앱</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Published-6ec6b8?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ✦ About Me
+
+```typescript
+const thiporia = {
+  role:       "Front-end Developer & Indie App Creator",
+  motto:      "즐겁게 개발하기 🎮",
+  focus:      ["Healing UX", "Intuitive Design", "Mobile Apps"],
+  loves:      ["React", "TypeScript", "Godot 4", "Clean Architecture"],
+  believes:   "팀원 간의 조화와 유대가 더 견고한 제품을 만든다",
+  goal:       "사람들의 일상에 즐거움과 힐링을 주는 것 ✨",
+  market:     "🇰🇷 Korean Mobile Market",
+};
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![thiporia's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiporia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c9b8e8&icon_color=6ec6b8&text_color=b8b0cc)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiporia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c9b8e8&text_color=b8b0cc)
+
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/ssoju2827@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssoju2827@gmail.com)
+[![GitHub](https://img.shields.io/badge/github.com/thiporia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiporia)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthiporia&count_bg=%236ec6b8&title_bg=%230d0d1a&icon=&icon_color=%23c9b8e8&title=visitors&edge_flat=true)](https://github.com/thiporia)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0d0d1a&height=120&section=footer&fontColor=c9b8e8)
