@@ -48,21 +48,6 @@
 
 </div>
 
----
-
-## 🌌 Projects
-
-| | |
-|:---:|:---:|
-| **🌠 미리내 이야기** | **🌿 Morning Garden** |
-| 별을 모아 나만의 은하를 완성해가는 힐링 아이들 게임 | 아침 루틴을 완성하면 정원이 자라는 하루 시작 앱 |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443e38?style=flat-square&logo=react&logoColor=white) ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
-| **🗡️ Defense RPG** | **📔 감정 다이어리** |
-| 귀여운 캐릭터들이 등장하는 2D 모바일 디펜스 RPG (개발 중) | 나의 감정을 우주로 표현하는 감성 일기 앱 |
-| ![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![WIP](https://img.shields.io/badge/WIP-6ec6b8?style=flat-square) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Published](https://img.shields.io/badge/Published-8977ad?style=flat-square) |
-
----
-
 ## ✦ About Me
 
 ```typescript
